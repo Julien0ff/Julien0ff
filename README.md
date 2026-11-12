@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=Julien0ff&color=F28C28&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
+<p align="center">
+  🩷 💛 🩵
+</p>
+
 ## 💻 Technologies & Tools
 
 <p align="center">
