@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F28C28,50:FFB347,100:FFD08A&height=180&section=header&text=Foxy&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Fox%20Enjoyer&descAlignY=60&animation=fadeIn" width="100%"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F28C28,50:FFB347,100:FFD08A&height=180&section=header&text=Foxy&fontSize=65&fontColor=15181D&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Fox%20Enjoyer&descAlignY=60&animation=fadeIn" width="100%"/> </p>
 
 <p align="center"> <a href="https://github.com/Julien0ff"> <img src="https://img.shields.io/badge/GitHub-Julien0ff-F28C28?style=for-the-badge&logo=github&logoColor=white"/> </a> <img src="https://komarev.com/ghpvc/?username=Julien0ff&color=F28C28&style=for-the-badge&label=PROFILE+VIEWS"/> </p>
 
