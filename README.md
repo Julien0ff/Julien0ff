@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=rust,py,js,discordjs,ts,html,css,sqlite,tauri,react,nodejs,electron,cs,cpp,c,java,docker,dotnet,flutter,gradle,kotlin,lua,md,mongodb,nextjs,php,postgres,prisma,swift,tailwind,vite,vue,arduino,vscode,git,github,kali,arch,linux,ai,xd,figma,discord,vercel,robloxstudio&perline=15" /> </p>
 
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julien0ff&theme=transparent&animation=draw&title_color=feb058&text_color=feb058" width="100%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julien0ff&theme=transparent&animation=draw&title_color=feb058&text_color=feb058" width="49%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julien0ff&theme=transparent&animation=draw&title_color=feb058&text_color=feb058" width="49%"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julien0ff&theme=transparent&animation=draw&title_color=feb058&text_color=feb058" width="100%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julien0ff&theme=transparent&animation=draw&title_color=feb058&text_color=c77528" width="49%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julien0ff&theme=transparent&animation=draw&title_color=feb058&text_color=feb058" width="49%"/> </p>
 
 <p align="center"> <b>Made with 🧡 by Foxy</b><br/> <sub>Stay curious. Keep building. 🦊</sub> </p>
 
